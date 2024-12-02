@@ -1,7 +1,7 @@
 ﻿
 using System.Runtime.CompilerServices;
 
-internal class Program
+internal class Day2
 {
     private static void Main(string[] args) {
         PartOne();
